@@ -1,0 +1,3 @@
+root     117673   2370  0 01:33 ?        00:00:00 sshd: yidian-F22 [priv]
+yidian-+ 117682 117673  0 01:33 ?        00:00:00 sshd: yidian-F22@pts/0
+yidian-+ 118232 117690  0 01:42 pts/0    00:00:00 grep --color=auto yidian-F22

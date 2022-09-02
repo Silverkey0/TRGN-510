@@ -1,0 +1,571 @@
+    1  ls-l
+    2  ls- l
+    3  ls
+    4  cd `
+    5  sh-4.2$ cd~
+    6  cd ~
+    7  pwd
+    8  ls -l
+    9  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   10  resetpassword
+   11  sudo /usr/bin/dscl . -passwd /Users/yidian-F22@usc.edu Db198871
+   12  pwd
+   13  ls
+   14  mkdir bin
+   15  pwd
+   16  ls
+   17  mkdir scripts
+   18  ls
+   19  mkdir projects
+   20  list
+   21  ls
+   22  ls
+   23  paawd
+   24  passwd
+   25  ls
+   26  cd assignment
+   27  ls
+   28  mkdir assignment
+   29  ls
+   30  cd assignment
+   31  pwd
+   32  git clone https://github.com/Silverkey0/TRGN510_assignment1
+   33  cd TRGN510_assignment1
+   34  pwd
+   35  vim Readme.md
+   36  cd TRGN510_assignment
+   37  ls
+   38  cd TRGN510_assignment1
+   39  cd assignment
+   40  ls
+   41  cd TRGN510_assignment1
+   42  vim Readme.md
+   43  cd assignment
+   44  cd TRGN510_assignment1
+   45  ls
+   46  vim Readme.md
+   47  cd assignment
+   48  cd TRGN510_assignment1
+   49  vim Readme.md
+   50  cd assignment
+   51  ls
+   52  cd TRGN510_assignment1
+   53  ls
+   54  git add Readme.md
+   55  git add README.md
+   56  git add . -A
+   57  git commit -m "First commit"
+   58  git config --global user.email "yidian@usc.edu"
+   59  git config --global user.name "yidian"
+   60  git commit -m "First commit"
+   61  git push
+   62  ls
+   63  cd assignment
+   64  ls
+   65  cd TRGN510_assignment
+   66  cd TRGN510_assignment1
+   67  vim Readme.md
+   68  cd ~
+   69  ls
+   70  cd ~
+   71  mkdir bin
+   72  rmdir bin
+   73  rmdir projects
+   74  rmdir scripts
+   75  ls
+   76  cd ~
+   77  mkdir bin
+   78  mkdir projects
+   79  mkdir scripts
+   80  cd ~
+   81  ls
+   82  cd ~
+   83  cd .. bin
+   84  cd ~
+   85  cd bin
+   86  pwd
+   87  cd projects
+   88  cd ~
+   89  cd projects
+   90  pwd
+   91  cd ..
+   92  pwd
+   93  cd bin
+   94  pwd
+   95  cd ..
+   96  pwd
+   97  cd scripts
+   98  cd ..
+   99  pwd
+  100  cd bin/
+  101  cd bin
+  102  cd ~
+  103  cd bin
+  104  cd bin/
+  105  cd bin
+  106  cd ~
+  107  cd bin
+  108  pwd
+  109  cd ..
+  110  pwd
+  111  cd ~
+  112  cd bin
+  113  cd ~/bin
+  114  pwd
+  115  cd bin
+  116  cd `
+  117  cd ~
+  118  cd ~/bin
+  119  pwd
+  120  cd ..
+  121  pwd
+  122  cd ..
+  123  pwd
+  124  cd ~
+  125  rmdir bin
+  126  ls
+  127  cd ~
+  128  mkdir bin
+  129  cd ~
+  130  ls
+  131  cd bin
+  132  ls
+  133  ls .
+  134  ls /home/yidian-F22/bin
+  135  cd ~
+  136  ls -l
+  137  cd ~
+  138  cd assignment
+  139  pwd
+  140  cd ~
+  141  pwd
+  142  cd ..
+  143  pwd
+  144  rmdir bin
+  145  cd ~
+  146  ls
+  147  rmdir bin
+  148  ls
+  149  cd ~
+  150  ls
+  151  cd ~
+  152  cd ..
+  153  pwd
+  154  mkdir bin
+  155  cd ~
+  156  mkdir bin
+  157  ls
+  158  cd bin
+  159  pwd
+  160  cd ~
+  161  cd assignment
+  162  ls
+  163  cd TRGN_assignment1
+  164  cd TRGN510_assignment1
+  165  pwd
+  166  ls
+  167  git add . -A
+  168  git commit -m "First commit"
+  169  git push
+  170  cd assinment
+  171  cd ~
+  172  cd assignment'
+  173  assignment
+  174  cd assignment
+  175  cd assinment
+  176  ls
+  177  cd assignment
+  178  ls
+  179  git clone https://github.com/Silverkey0/TRGN510_assignment1.git
+  180  cd `
+  181  ls
+  182  cd assignment
+  183  ls
+  184  git clone https://github.com/Silverkey0/trgn510_assignment1.git
+  185  cd ..
+  186  pwd
+  187  ls
+  188  cd assignment
+  189  ls
+  190  cd TRGN510_assignment1
+  191  rmdir Readme.md
+  192  cd ..
+  193  pwd
+  194  rmdir TRGN510_assignment1
+  195  ls
+  196  cd TRGN510_assignment1
+  197  ls
+  198  cd ..
+  199  pwd
+  200  cd trgn510_assignment1
+  201  vim Readme.md
+  202  cd assignment
+  203  pwd
+  204  ls
+  205  cd TRGN510_assignment1
+  206  cd Readme
+  207  rmdir Readme
+  208  rmdir Readme.md
+  209  git rm Readme.md
+  210  git rdmir Readme.md
+  211  pwd
+  212  git rm . -A
+  213  pwd
+  214  cd ..
+  215  pwd
+  216  ls
+  217  rm -r TRGN510_assignment1
+  218  ls
+  219  rm -r TRGN510_assignment1
+  220  f
+  221  rm -r TRGN510_assignment1
+  222  pwx
+  223  pwd
+  224  rm -rf TRGN510_assignment1
+  225  ls
+  226  cd trgn510_assignment1
+  227  vim Readme.md
+  228  cd ~
+  229  ls
+  230  cd assignment
+  231  ls
+  232  git add . -A
+  233  cd trgn510_assignment1
+  234  git add . -A
+  235  git commit -m "First commit"
+  236  git push
+  237  git add . -A
+  238  git commit -m "First commit"
+  239  git push
+  240  git add . -A
+  241  git commit -m "First commit"
+  242  git push
+  243  git add . -A
+  244  git commit -m "First commit"
+  245  ad ..
+  246  cd ..
+  247  pwd
+  248  ls
+  249  exit
+  250  ls
+  251  cd assignment
+  252  ls
+  253  cd trgn510_assignment1
+  254  Readme.md
+  255  pwd
+  256  git add . -A
+  257  git commit -m "First commit"
+  258  cd ..
+  259  pwd
+  260  cd trgn510_assignment1
+  261  git commit -m "First commit"
+  262  git branch --unset-upstream
+  263  git commit -m "First commit"
+  264  git push
+  265  git push --set-upstream origin main
+  266  git push
+  267  git push --set-upstream origin main
+  268  git push
+  269  git push --set-upstream origin main
+  270  cd ~
+  271  ls
+  272  clear
+  273  cd ~
+  274  ls
+  275  cd assignment
+  276  ls
+  277  rm -rf trgn510_assignment1
+  278  pwd
+  279  ls
+  280  git clone https://github.com/Silverkey0/trgn510_assignment1.git
+  281  ls
+  282  cd trgn510_assignment1
+  283  ls
+  284  git add . -A
+  285  git commit -m "First commit"
+  286  git push
+  287  ls
+  288  cd assignment
+  289  ls
+  290  cd trgn510_assignment1
+  291  ls
+  292  mv README.md Readme.md
+  293  ls
+  294  git push
+  295  ls
+  296  clear
+  297  pwd
+  298  mkdir problem1
+  299  ls
+  300  cd problem1
+  301  mkdir myhistory.tet
+  302  ls
+  303  history > myhistory.problem1.txt
+  304  cat myhistory.tet
+  305  mv myhistory.tet myhistory.txt
+  306  ls
+  307  pwd
+  308  rm myhistory.problem1.txt
+  309  ls
+  310  history > myhistory.txt
+  311  rm myhistory.txt
+  312  rm -rf myhistory.txt
+  313  ls
+  314  pwd
+  315  touch myhistory.txt
+  316  history > myhistory.txt
+  317  ls
+  318  cat myhistory.txt
+  319  clear
+  320  ls
+  321  cd ~
+  322  clear
+  323  ls
+  324  lst -l
+  325  ls -l
+  326  ls -la
+  327  cd
+  328  cd assignment
+  329  pwd
+  330  ls
+  331  cd trgn510_assignment1
+  332  ls
+  333  vim Readme.md
+  334  cd ~
+  335  clear
+  336  ls
+  337  cd assignment
+  338  ls
+  339  cd trgn510_assignment1
+  340  ls
+  341  vim Readme.md
+  342  git push
+  343  vim Readme.md
+  344  pwd
+  345  git add . -A
+  346  git commit -m "First commit"
+  347  git push
+  348  clear
+  349  ls
+  350  cd problem1
+  351  ls
+  352  cat myhistory.txt
+  353  clear
+  354  cd ~
+  355  ls
+  356  echo "Hello"
+  357  ech `ls`
+  358  echo `ls`
+  359  echo "ls"
+  360  echo "$ls"
+  361  where is echo
+  362  whereis echo
+  363  echo "This is not special \"
+  364  echo "This is not special \"
+  365  clear
+  366  ls -l *a*
+  367  ls -l *A*
+  368  pwd
+  369  ls -l *s*
+  370  clear
+  371  echo $USER
+  372  erty="today is a good day"
+  373  echo erty
+  374  echo $erty
+  375  echo $path
+  376  echo $PATH
+  377  clear
+  378  pwd
+  379  whereis bash
+  380  ls -l
+  381  ls
+  382  cd assignment
+  383  ls
+  384  cd trgn510_assignment1
+  385  ls
+  386  vim Readme.md
+  387  git add . -A
+  388  git commit -m "First commit"
+  389  git push
+  390  clear
+  391  cd ~
+  392  ls
+  393  cd assignment
+  394  ls
+  395  cd trgn510_assignment1
+  396  ls
+  397  cd assignment
+  398  ls
+  399  cd trgn510_assignment1
+  400  ls
+  401  mkdir problem2
+  402  ls
+  403  cd problem2
+  404  pwd
+  405  ls
+  406  cd assignment
+  407  ls
+  408  cd trgn510_assignment1
+  409  ls
+  410  cd problem2
+  411  ls
+  412  cd assignment
+  413  ls
+  414  cd trgn510_assignment1
+  415  ls
+  416  cd problem2
+  417  ls
+  418  cp /scatch/data/bashrc_sample ~/assignments/trgn_assignment1/problem2/.
+  419  cp bashrc_sample ~/assignments/trgn_assignment1/problem2/.
+  420  cp bashrc ~/assignments/trgn_assignment1/problem2/.
+  421  cd ~
+  422  pwd
+  423  cd assignment
+  424  cd trgn510_assignment1
+  425  cd problem2
+  426  cp /home/yidian-F22/bashrc ~/assignments/trgn_assignment1/problem2/.
+  427  cd ~
+  428  pwd
+  429  cd assignment
+  430  cd trgn510_assignment1
+  431  cd problem2
+  432  cp cp ~/.bashrc ~/assignments/trgn_assignment1/problem2/.
+  433  cp ~/.bashrc ~/.problem2
+  434  cd ~
+  435  pwd
+  436  vim bashrc_sample
+  437  ls
+  438  cd assignment
+  439  cd trgn510_assignment1
+  440  cd problem2
+  441  cp ~/.bashrc ~/assignments/trgn_assignment1/problem2/.
+  442  cp /home/yidian-F22/.bashrc_sample ~/assignments/trgn_assignment1/problem2/.
+  443  cp /home/yidian-F22/bashrc_sample ~/assignments/trgn_assignment1/problem2/.
+  444  cp ~/bashrc_sample ~/assignments/trgn_assignment1/problem2/.
+  445  cp ~/bashrc_sample ~/problem2/.
+  446  cd ~
+  447  vi .bashrc
+  448  ls
+  449  pwd
+  450  cd assignment
+  451  cd trgn_assignment1
+  452  ls
+  453  cd trgn510_assignment1
+  454  cd problem2
+  455  cp ~/.bashrc /home/yidian-F22/assignment/trgn510_assignment1/problem2/.
+  456  ls
+  457  cp /scatch/data/bashrc_sample /home/yidian-F22/assignment/trgn510_assignment1/problem2/.
+  458  cd ~
+  459  rm -rf bashrc_sample
+  460  ls
+  461  cd assignment
+  462  cd trgn510_assignment1
+  463  cd problem2
+  464  mv .bashrc bashrc_sample
+  465  vi bashrc_sample
+  466  pwd
+  467  echo "Welcome. You are $Henry on $yidian-F22@trgn.usc.edu" >> bashrc_sample
+  468  vim bashrc_sample
+  469  source ~/assignment/trgn510_assignment1/problem2/bashrc_sample
+  470  vi bashrc_sample
+  471  source ~/assignment/trgn510_assignment1/problem2/bashrc_sample
+  472  vi bashrc_sample
+  473  source ~/assignment/trgn510_assignment1/problem2/bashrc_sample
+  474  cp ~/assignment/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+  475  vi .bashrc
+  476  ls
+  477  cd assignment
+  478  ls
+  479  cd trgn510_assignment1
+  480  ls
+  481  cd problem2
+  482  vim bashrc_sample
+  483  cp ~/.bashrc /scatch/data/
+  484  cp /scatch/data/bashrc_sample ~/assignment/trgn510_assignment1/problem2/.
+  485  source ~/assignment/trgn510_assignment1/problem2/bashrc_sample
+  486  pwd
+  487  vim .bashrc
+  488  source ~/.bashrc
+  489  ~ vim .bashrc
+  490  vim .bashrc
+  491  ls
+  492  vim .bashrc
+  493  rm -rf .bashrc
+  494  vim .bashrc
+  495  rm -rf .bashrc
+  496  cd assignment
+  497  ls
+  498  cd trgn510_assignment1
+  499  ls
+  500  cd problem2
+  501  rm -rf bashrc_sample
+  502  cp ~/.bashrc ~/assignment/trgn510_assignment1/problem2/.
+  503  cp ~/bashrc ~/assignment/trgn510_assignment1/problem2/.
+  504  cp ~/.bashrc_example ~/assignment/trgn510_assignment1/problem2/.
+  505  vim .bashrc
+  506  rm .bashrc
+  507  clear
+  508  ls
+  509  cd assignment
+  510  ls
+  511  cd trgn510_assignment1
+  512  ls
+  513  cd problem2
+  514  cd ~
+  515  pwd
+  516  ./bashrc
+  517  /home/data/vimrc
+  518  /home/data/.bashrc
+  519  chmod 755 /home/data/.bashrc
+  520  /home/yidian-F22/data/.bashrc
+  521  cd assignment
+  522  cd trgn510_assignment1
+  523  cd problem2
+  524  cp /home/data/.bashrc ~/assignment/trgn510_assignment1/problem2/.
+  525  vim .bashrc
+  526  source ~/assignment/trgn510_assignment1/problem2/.bashrc
+  527  vim .bashrc
+  528  mv .bashrc bashrc_example
+  529  mv bashrc_example bashrc_sample
+  530  cp ~/assignment/trgn510_assignment1/problem2/bashrc_sample /home/data/.bashrc
+  531  cp ~/assignment/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+  532  clear
+  533  ls
+  534  cd assignment
+  535  ls
+  536  trgn510_assignment1
+  537  ls
+  538  cd trgn510_assignment1
+  539  ls
+  540  mkdir problem\3
+  541  ls
+  542  mv problem3 "problem\3" 
+  543  ls
+  544  mv problem\3 "problem 3"
+  545  mv "problem\3" "problem 3"
+  546  ls
+  547  cd "problem 3"
+  548  cd ..
+  549  pwd
+  550  ls
+  551  ls -l
+  552  cd "problem 3"
+  553  vim My History.txt
+  554  ls -l
+  555  ls
+  556  rm My
+  557  rm History
+  558  ls -l
+  559  ls
+  560  pwd
+  561  mkdir "My History"
+  562  ls -l
+  563  mv "My History" "My History.txt"
+  564  ls
+  565  ls -l
+  566  rm "My History.txt"
+  567  rmdir "My History.txt"
+  568  ls
+  569  vim "My History.txt"
+  570  ls -l
+  571  history > "My History.txt"
